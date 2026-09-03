@@ -1,16 +1,13 @@
-## 
+# Hi, I'm Aakrisht Tiwary
 
-<!--
-**aakri0/aakri0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Computer Science student interested in systems and backend engineering.
 
-Here are some ideas to get you started:
+- 🎓 B.E. Information Science and Engineering @ R.V. College of Engineering
+- 🧠 Codeforces Specialist — 1529
+- 💻 Interested in systems, backend engineering, networking, and distributed systems
+- 🔗 [GitHub](https://github.com/aakri0) · [LinkedIn](https://linkedin.com/in/aakrisht-tiwary)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stats-dark.svg">
+  <img alt="GitHub statistics" src="./stats-light.svg">
+</picture>
